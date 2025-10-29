@@ -1,4 +1,4 @@
-name = "on"
+name = "redirect"
 main = "index.ts"
 compatibility_date = "2025-10-01"
 
