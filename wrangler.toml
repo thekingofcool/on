@@ -1,0 +1,7 @@
+name = "on"
+main = "index.ts"
+compatibility_date = "2025-10-01"
+
+[[routes]]
+pattern = "on.thekingof.cool/*"
+zone_name = "thekingof.cool"
